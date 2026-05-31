@@ -60,3 +60,10 @@ LightGBM с подбором гиперпараметров через Randomize
 ROC-AUC на тесте: **0.90**
 
 Основные признаки: `total_hits`, `rolling_cr_7d` (скользящая конверсия за 7 дней по каналу), `is_car_page`, `visit_number`, временные фичи.
+
+## Демонстрация работоспособности
+
+<img width="926" height="187" alt="image" src="https://github.com/user-attachments/assets/d97fc4ed-f081-4a5e-aafb-9d9d698d1e4b" />
+
+<img width="746" height="99" alt="image" src="https://github.com/user-attachments/assets/bbcbf6c4-6425-4b1d-8818-bd6d0330d148" />
+
